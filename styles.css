@@ -1,1 +1,21 @@
 /* your code */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 4px grey;
+border-radius: 4px;
+}
+th, td {
+  text-align: center;
+  padding: 8px;
+
+		border-radius:4px;
+}
+th{
+	background-color: lightsteelblue;
+	border  : 2px;
+
+}
+.two{
+	background-color: grey;
+}
